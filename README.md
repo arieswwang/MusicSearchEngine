@@ -7,7 +7,7 @@ Activate solr using:
 press enter till the end 
 Create a core using : 
 `bin/solr create -c lyric_core` 
-Run load_files.py
+`Run load_files.py`
 Visit the solr link. 
 Go to collections, select lyric_core, execute query.
 To delete: 
